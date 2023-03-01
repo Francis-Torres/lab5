@@ -29,7 +29,7 @@ td, th {
   }
 
 #planets th{
-  background-color: #000000;
+  background-color: #B1B3B3FF;
   border: 0px;
 }
 
@@ -63,7 +63,7 @@ td, th {
 }
 
 .imagebackground{
-  background-color: #B1B3B3FF;
+  background-color: #000000;
 }
 
 body {
